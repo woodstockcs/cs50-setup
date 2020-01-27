@@ -3,3 +3,7 @@
 2. Go to [cs50.io](https://ide.cs50.io) and log in using your github account. (wait until it gets past the "preparing your environment" screen ... it may take some time)
 3. Go to [submit.cs50.io](https://submit.cs50.io) and authorize the application.
 4. Go [here](https://submit.cs50.io/invites/a059171144ae466aa4a032d5f818a711) and follow the instructions to join the course.
+
+**Definition of done = you clicked that green 'join course' button and didn't get an error message.**
+
+***
