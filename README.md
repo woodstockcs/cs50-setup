@@ -4,6 +4,6 @@
 3. Go to [submit.cs50.io](https://submit.cs50.io) and authorize the application.
 4. Go [here](https://submit.cs50.io/invites/a059171144ae466aa4a032d5f818a711) and follow the instructions to join the course.
 
-**Definition of done = You clicked "Mark as done" for this assignment in google classroom.**
+**Definition of Done = You clicked "Mark as done" for this assignment in google classroom.**
 
 ***
