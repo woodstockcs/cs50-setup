@@ -1,4 +1,4 @@
-# cs50-setup
+# CS50 Setup
 1. Go to [github.com](https://www.github.com) and create a free account using your school email address. You might have to go into your email and click a verification link.
 2. Go to [cs50.io](https://ide.cs50.io) and log in using your github account. (wait until it gets past the "preparing your environment" screen ... it may take some time)
 3. Go to [submit.cs50.io](https://submit.cs50.io) and authorize the application.
